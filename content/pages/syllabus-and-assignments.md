@@ -19,13 +19,66 @@ We will begin by studying how similar panics about "old" media (books, film, tel
 Assignments and Grading
 -----------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance & Participation | 15 |
-| Reading Explication | (10% x 2) = 20 |
-| Media Journal | 25 |
-| Midterm Paper (4–6 pages) | 15 |
-| Final Paper (8–10 pages) | 25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance & Participation
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading Explication
+{{< tdclose >}}
+{{< tdopen >}}
+(10% x 2) = 20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Media Journal
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Paper (4–6 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper (8–10 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1.  **Attendance and Participation:** You are expected to attend every class, having read the assignments prior to the class session for which they are assigned. Your participation grade will be determined by your active participation in class discussion. This means raising thoughtful questions about the readings, agreeing with or critiquing the main arguments presented in the readings, and respectfully listening and responding to what your classmates have to say. If you will miss class due to an illness or family emergency please inform me in advance by e-mail. Unexcused absences and coming late to class will negatively impact your grade.
 2.  **Reading Explication:** Twice during the semester you will lead class discussion by presenting a ten-minute introduction to the week's readings. You should introduce the authors, summarize the main arguments, offer your own critique of at least one of the arguments (agree/disagree with what and why), and raise at least two open-ended questions for class discussion. Each presentation will be accompanied by a one-page\* written report.
