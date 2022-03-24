@@ -215,7 +215,7 @@ Jenkins, Henry. "[Eight Traits of the New Media Landscape](http://www.henryjenki
 
 Baym, Nancy K. "Seven Key Concepts." In _Personal Connections in the Digital Age_. Polity Press, 2010. ISBN: 9780745643328.
 
-Manovich, Lev. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["New Media from Borges to HTML." (PDF)](http://www9.georgetown.edu/faculty/irvinem/theory/manovich-new-media-intro.pdf) 2003.
+Manovich, Lev. ["New Media from Borges to HTML." (PDF)](http://www9.georgetown.edu/faculty/irvinem/theory/manovich-new-media-intro.pdf) 2003.
 
 
 {{< tdclose >}}
@@ -287,7 +287,7 @@ Boyd, Danah. "[Real Name Policies are an Abuse of Power](http://www.zephoria.org
 
 Donath, Judith. "[Identity and Deception in the Virtual Community](http://smg.media.mit.edu/people/Judith/Identity/IdentityDeception.html)." 1996.
 
-Turkle, Sherry. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Virtuality and Its Discontents." (PDF - 3.41MB)](https://sherryturkle.mit.edu/sites/default/files/images/ST_Virtuality%20and%20its%20discontents.pdf) _The American Prospect_ 7, no. 24 (1996): 50–7.
+Turkle, Sherry. ["Virtuality and Its Discontents." (PDF - 3.41MB)](https://sherryturkle.mit.edu/sites/default/files/images/ST_Virtuality%20and%20its%20discontents.pdf) _The American Prospect_ 7, no. 24 (1996): 50–7.
 
 
 {{< tdclose >}}
@@ -359,13 +359,13 @@ Pornography and Sexual Predators
 {{< tdopen >}}
 
 
- [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262633598) Cassell, Justine, and Meg Cramer. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["High Tech or High Risk: Moral Panics about Girls Online." (PDF)](http://www.justinecassell.com/publications/Cassell_Cramer_MoralPanic.pdf) In _Digital Youth, Innovation, and the Unexpected_. Edited by Tara McPherson. MIT Press, 2007. ISBN: 9780262633598. \[Preview with [Google Books](http://books.google.com/books?id=2QyvC0W4PZwC&pg=PAfrontcover)\]
+ [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262633598) Cassell, Justine, and Meg Cramer. ["High Tech or High Risk: Moral Panics about Girls Online." (PDF)](http://www.justinecassell.com/publications/Cassell_Cramer_MoralPanic.pdf) In _Digital Youth, Innovation, and the Unexpected_. Edited by Tara McPherson. MIT Press, 2007. ISBN: 9780262633598. \[Preview with [Google Books](http://books.google.com/books?id=2QyvC0W4PZwC&pg=PAfrontcover)\]
 
 Marwick, Alice E. "[To Catch a Predator? The MySpace Moral Panic](https://www.ideals.illinois.edu/handle/2142/15151)." _First Monday_ 13, no. 6 (2008).
 
 Shah, Nishant. "[Subject to Technology: Internet Pornography, Cyber-terrorism and the Indian State](http://dx.doi.org/10.1080/14649370701393725)." _Inter-Asia Cultural Studies_ 8, no. 3 (2007): 349–366.
 
-Berkman Center for Internet and Society. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Enhancing Child Safety and Online Technologies - Executive Summary." (PDF)](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/ISTTF_Final_Report-Executive_Summary.pdf) 2008.
+Berkman Center for Internet and Society. ["Enhancing Child Safety and Online Technologies - Executive Summary." (PDF)](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/ISTTF_Final_Report-Executive_Summary.pdf) 2008.
 
 
 {{< tdclose >}}
@@ -408,9 +408,9 @@ Video Games, Violence, and Addiction
 {{< tdopen >}}
 
 
-Jenkins, Henry. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The War Between Effects and Meaning: Rethinking the Video Game Violence Debate." (PDF)](http://med104exp.files.wordpress.com/2010/11/2-4-jenkins.pdf) In _Digital Generations: Children, Young People, and New Media_. Edited by David Buckingham and Rebekah Willett. Routledge, 2006. ISBN: 9780805859805.
+Jenkins, Henry. ["The War Between Effects and Meaning: Rethinking the Video Game Violence Debate." (PDF)](http://med104exp.files.wordpress.com/2010/11/2-4-jenkins.pdf) In _Digital Generations: Children, Young People, and New Media_. Edited by David Buckingham and Rebekah Willett. Routledge, 2006. ISBN: 9780805859805.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Brown v. Entertainment Merchants Association (PDF)](http://www.supremecourt.gov/opinions/10pdf/08-1448.pdf), 564 U. S. \_\_\_\_ (2011).
+[Brown v. Entertainment Merchants Association (PDF)](http://www.supremecourt.gov/opinions/10pdf/08-1448.pdf), 564 U. S. \_\_\_\_ (2011).
 
 [_Playing Columbine_](http://www.imdb.com/title/tt1147621/). Directed by Danny Ledonne. Color, 94 min. 2008. (screened in-class during session 23)
 
